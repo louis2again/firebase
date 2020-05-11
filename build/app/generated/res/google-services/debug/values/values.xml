@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">924694115903-re4ctqt2o0r81h6r12oap0e93ooh0745.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://workshops-e10cf.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">924694115903</string>
+    <string name="google_api_key" translatable="false">AIzaSyB8n9D6Ke6Sv3_kDlBgpKfPxa80J1nwKJY</string>
+    <string name="google_app_id" translatable="false">1:924694115903:android:58812dffa537aa9126ea8a</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyB8n9D6Ke6Sv3_kDlBgpKfPxa80J1nwKJY</string>
+    <string name="google_storage_bucket" translatable="false">workshops-e10cf.appspot.com</string>
+    <string name="project_id" translatable="false">workshops-e10cf</string>
+</resources>
